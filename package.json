@@ -1,0 +1,19 @@
+{
+  "name": "microerp",
+  "version": "0.0.1",
+  "description": "project for mag-one china",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyteLyne/MicroErp.git"
+  },
+  "author": "Shrey, Gautham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyteLyne/MicroErp/issues"
+  },
+  "homepage": "https://github.com/RyteLyne/MicroErp#readme"
+}
